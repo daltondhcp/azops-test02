@@ -11,7 +11,7 @@
   "resources": [
     {
       "type": "Microsoft.Management/managementGroups/subscriptions",
-      "name": "azOpsTest-management/d0cc7505-f259-40ae-8e08-75476f2dd378",
+      "name": "test55-management/d0cc7505-f259-40ae-8e08-75476f2dd378",
       "apiVersion": "2021-04-01",
       "scope": "/"
     }

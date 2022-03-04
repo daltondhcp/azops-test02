@@ -15,7 +15,7 @@
       "apiVersion": "2021-04-01-preview",
       "properties": {
         "DisplayName": null,
-        "ObjectType": "ServicePrincipal",
+        "ObjectType": "Unknown",
         "PrincipalId": "66f5ef5a-c223-4f7f-8fc4-54b1db6c609d",
         "RoleDefinitionId": "/providers/Microsoft.Authorization/RoleDefinitions/4d97b98b-1d4f-4787-a291-c67834d212e7",
         "RoleDefinitionName": "Network Contributor"

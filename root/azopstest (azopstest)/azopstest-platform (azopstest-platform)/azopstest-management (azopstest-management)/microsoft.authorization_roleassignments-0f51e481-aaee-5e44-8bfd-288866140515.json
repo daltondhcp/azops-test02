@@ -12,7 +12,7 @@
     {
       "type": "Microsoft.Authorization/roleAssignments",
       "name": "0f51e481-aaee-5e44-8bfd-288866140515",
-      "apiVersion": "2021-04-01-preview",
+      "apiVersion": "2022-01-01-preview",
       "properties": {
         "DisplayName": "Deploy-Log-Analytics",
         "ObjectType": "ServicePrincipal",

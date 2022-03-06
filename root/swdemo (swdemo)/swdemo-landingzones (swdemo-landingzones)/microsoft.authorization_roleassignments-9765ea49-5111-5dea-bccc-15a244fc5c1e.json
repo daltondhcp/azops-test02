@@ -12,7 +12,7 @@
     {
       "type": "Microsoft.Authorization/roleAssignments",
       "name": "9765ea49-5111-5dea-bccc-15a244fc5c1e",
-      "apiVersion": "2021-04-01-preview",
+      "apiVersion": "2022-01-01-preview",
       "properties": {
         "DisplayName": "Deploy-SQL-Threat",
         "ObjectType": "ServicePrincipal",

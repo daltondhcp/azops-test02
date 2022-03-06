@@ -12,7 +12,7 @@
     {
       "type": "Microsoft.Authorization/roleAssignments",
       "name": "a428de6b-52e0-57d4-8147-c65b7cbf9e08",
-      "apiVersion": "2021-04-01-preview",
+      "apiVersion": "2022-01-01-preview",
       "properties": {
         "DisplayName": "Deploy-VMSS-Monitoring",
         "ObjectType": "ServicePrincipal",

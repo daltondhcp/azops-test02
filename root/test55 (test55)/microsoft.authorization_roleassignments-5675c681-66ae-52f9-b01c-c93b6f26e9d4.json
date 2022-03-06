@@ -12,7 +12,7 @@
     {
       "type": "Microsoft.Authorization/roleAssignments",
       "name": "5675c681-66ae-52f9-b01c-c93b6f26e9d4",
-      "apiVersion": "2021-04-01-preview",
+      "apiVersion": "2022-01-01-preview",
       "properties": {
         "DisplayName": "Deploy-VM-Monitoring",
         "ObjectType": "ServicePrincipal",

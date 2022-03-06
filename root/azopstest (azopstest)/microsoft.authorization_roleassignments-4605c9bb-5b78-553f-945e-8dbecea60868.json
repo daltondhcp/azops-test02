@@ -12,7 +12,7 @@
     {
       "type": "Microsoft.Authorization/roleAssignments",
       "name": "4605c9bb-5b78-553f-945e-8dbecea60868",
-      "apiVersion": "2021-04-01-preview",
+      "apiVersion": "2022-01-01-preview",
       "properties": {
         "DisplayName": "Deploy-AzActivity-Log",
         "ObjectType": "ServicePrincipal",

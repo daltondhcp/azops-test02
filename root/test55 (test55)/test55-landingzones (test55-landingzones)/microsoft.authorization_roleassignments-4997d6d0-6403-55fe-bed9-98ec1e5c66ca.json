@@ -12,7 +12,7 @@
     {
       "type": "Microsoft.Authorization/roleAssignments",
       "name": "4997d6d0-6403-55fe-bed9-98ec1e5c66ca",
-      "apiVersion": "2021-04-01-preview",
+      "apiVersion": "2022-01-01-preview",
       "properties": {
         "DisplayName": "Deploy-SQL-DB-Auditing",
         "ObjectType": "ServicePrincipal",

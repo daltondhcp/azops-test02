@@ -11,14 +11,14 @@
   "resources": [
     {
       "type": "Microsoft.Authorization/roleAssignments",
-      "name": "316baf79-3961-4850-b19c-169105cc64c0",
+      "name": "bf0d815a-efa5-46ff-883a-d4412576ec4f",
       "apiVersion": "2022-01-01-preview",
       "properties": {
-        "DisplayName": "U.S. Sales",
-        "ObjectType": "Group",
-        "PrincipalId": "ff891db3-5328-459e-aaba-d54b0bfb0464",
-        "RoleDefinitionId": "/providers/Microsoft.Authorization/RoleDefinitions/b24988ac-6180-42a0-ab88-20f7382dd24c",
-        "RoleDefinitionName": "Contributor"
+        "DisplayName": "azops-3",
+        "ObjectType": "ServicePrincipal",
+        "PrincipalId": "6b76aeb5-f4f8-4e60-8753-e3ecfd39cf61",
+        "RoleDefinitionId": "/providers/Microsoft.Authorization/RoleDefinitions/acdd72a7-3385-48ef-bd42-f606fba81ae7",
+        "RoleDefinitionName": "Reader"
       }
     }
   ],
